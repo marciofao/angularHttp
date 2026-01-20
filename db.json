@@ -1,0 +1,44 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "name": "Acme Fresh Start Housing",
+            "city": "Chicago",
+            "state": "IL",
+            "photo": "/assets/bernard-hermant-CLkGvwlBTaY-unsplash.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 1,
+            "name": "Lakeside Community Apartments",
+            "city": "Milwaukee",
+            "state": "WI",
+            "photo": "/assets/lakeside-apartments.jpg",
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 2,
+            "name": "Sunset Harbor Residences",
+            "city": "San Diego",
+            "state": "CA",
+            "photo": "/assets/sunset-harbor.jpg",
+            "availableUnits": 6,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 3,
+            "name": "Pine Grove Affordable Living",
+            "city": "Asheville",
+            "state": "NC",
+            "photo": "/assets/pine-grove.jpg",
+            "availableUnits": 1,
+            "wifi": false,
+            "laundry": true
+        }
+    ]
+}
